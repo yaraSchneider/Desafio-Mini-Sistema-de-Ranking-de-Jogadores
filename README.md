@@ -138,4 +138,4 @@ Yara Schneider
 
 ---
 
-**Última atualização:** 16 de junho de 2026
+**Última atualização:** 15 de junho de 2026
